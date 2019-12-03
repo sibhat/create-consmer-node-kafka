@@ -14,6 +14,7 @@
   "author": "Confluent",
   "license": "ISC",
   "dependencies": {
-    "mqtt": "^2.18.8"
+    "mqtt": "^2.18.8",
+    "node-rdkafka": "^2.7.1"
   }
 }
